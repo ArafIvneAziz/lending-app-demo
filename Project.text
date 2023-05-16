@@ -1,0 +1,5 @@
+The objective of this project was to create a complete MVP project. 
+The aim of the project is to make a transaction between "Lender to Borrower" through a stripe payment system and store 
+all transaction data between "Lender to Lender" in mongodb collection and it will send you SMS notification for each transaction.
+And the client-side was reactjs. This is one of my client projects that closed. Now, more work remains. 
+I will update it occasionally. Then you can use it properly.
